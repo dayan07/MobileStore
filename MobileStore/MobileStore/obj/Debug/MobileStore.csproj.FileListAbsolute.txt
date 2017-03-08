@@ -1,0 +1,27 @@
+D:\флешка 25.10.2016\C#\WinForms\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+D:\флешка 25.10.2016\C#\WinForms\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+D:\флешка 25.10.2016\C#\WinForms\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+D:\флешка 25.10.2016\C#\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+D:\флешка 25.10.2016\C#\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.StoreForm.resources
+D:\флешка 25.10.2016\C#\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+D:\флешка 25.10.2016\C#\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
+D:\флешка 25.10.2016\C#\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+D:\флешка 25.10.2016\C#\WinForms\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
+C:\Users\valery-пк\Desktop\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+C:\Users\valery-пк\Desktop\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+C:\Users\valery-пк\Desktop\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
+C:\Users\valery-пк\Desktop\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+C:\Users\valery-пк\Desktop\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+C:\Users\valery-пк\Desktop\MobileStore\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+C:\Users\valery-пк\Desktop\MobileStore\MobileStore\obj\Debug\MobileStore.StoreForm.resources
+C:\Users\valery-пк\Desktop\MobileStore\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+C:\Users\valery-пк\Desktop\MobileStore\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
+C:\Users\User\Downloads\MobileStore\MobileStore\bin\Debug\MobileStore.exe.config
+C:\Users\User\Downloads\MobileStore\MobileStore\obj\Debug\MobileStore.exe
+C:\Users\User\Downloads\MobileStore\MobileStore\obj\Debug\MobileStore.pdb
+C:\Users\User\Downloads\MobileStore\MobileStore\bin\Debug\MobileStore.exe
+C:\Users\User\Downloads\MobileStore\MobileStore\bin\Debug\MobileStore.pdb
+C:\Users\User\Downloads\MobileStore\MobileStore\obj\Debug\MobileStore.csprojResolveAssemblyReference.cache
+C:\Users\User\Downloads\MobileStore\MobileStore\obj\Debug\MobileStore.StoreForm.resources
+C:\Users\User\Downloads\MobileStore\MobileStore\obj\Debug\MobileStore.Properties.Resources.resources
+C:\Users\User\Downloads\MobileStore\MobileStore\obj\Debug\MobileStore.csproj.GenerateResource.Cache
